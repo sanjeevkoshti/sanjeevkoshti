@@ -17,7 +17,7 @@
 ## 🚀 About Me
 <div align="center">
   <p>
-    🎓 <b>BCA Student</b> | 💻 <b>💻 Frontend Enthusiast</b> | 🌱 <b>Continuous Learner</b>
+    🎓 <b>BCA Student</b> | 💻 <b>Frontend Enthusiast</b> | 🌱 <b>Continuous Learner</b>
   </p>
   <p>
     I’m passionate about building robust web applications with <b>React.js</b> and <b>Modern Backend</b> tech.<br />
