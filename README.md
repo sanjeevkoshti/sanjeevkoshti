@@ -2,7 +2,7 @@
 <h1 align="center">✨ Hi there, I'm <a href="https://github.com/sanjeevkoshti">Sanjeev Koshti</a> 👋</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sanjeevkoshti&color=F8D847&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=sanjeevkoshti&color=dfc23f&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <!-- 🧠 Animated Typing Banner -->
