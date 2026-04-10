@@ -8,7 +8,7 @@
 <!-- 🧠 Animated Typing Banner -->
 <p align="center">
   <a href="https://github.com/sanjeevkoshti">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=700&height=70&lines=Frontend+Developer+💻;Web+Developer+🌍;BCA+Student+🎓;Always+Learning+New+Things+🚀&color=F8D847&background=0D1117&vCenter=true&gradient=F75C7E,F8D847,6DD5FA,00C9A7" alt="Typing Animation" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=1000&center=true&vCenter=true&width=700&height=70&lines=FullStack+Developer+💻;Web+Developer+🌍;BCA+Student+🎓;Always+Learning+New+Things+🚀&color=F8D847&background=0D1117&vCenter=true&gradient=F75C7E,F8D847,6DD5FA,00C9A7" alt="Typing Animation" />
   </a>
 </p>
 
