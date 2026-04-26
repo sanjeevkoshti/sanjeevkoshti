@@ -86,20 +86,6 @@ const sanjeev = {
         <img src="https://skillicons.dev/icons?i=react,nodejs,express,supabase&theme=dark" />
       </td>
       <td width="50%" align="center" valign="top">
-        <h2>🌐 Portfolio Website</h2>
-        <p><i>Personal portfolio showcasing projects & skills</i></p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&center=true&vCenter=true&width=350&height=30&lines=Responsive+Design;Modern+UI%2FUX;Project+Showcase;Live+on+GitHub+Pages&color=6366F1&background=00000000" />
-        <br><br>
-        <a href="https://sanjeevkoshti.github.io/Portfolio/"><img src="https://img.shields.io/badge/Live_Demo-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-        <a href="https://github.com/sanjeevkoshti/Portfolio"><img src="https://img.shields.io/badge/Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <br><br>
-        <b>Tech Stack</b><br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=html,css,js,react&theme=dark" />
-      </td>
-    </tr>
-    <tr>
-      <td width="50%" align="center" valign="top">
         <h2>📝 Resume Builder</h2>
         <p><i>Online resume builder with templates</i></p>
         <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&center=true&vCenter=true&width=350&height=30&lines=Dynamic+Resume+Creation;Template+Selection;PDF+Export;User-Friendly+Interface&color=F59E0B&background=00000000" />
@@ -109,17 +95,6 @@ const sanjeev = {
         <b>Tech Stack</b><br>
         <br>
         <img src="https://skillicons.dev/icons?i=php,html,css,mysql&theme=dark" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <h2>🌤️ Weather Dashboard</h2>
-        <p><i>Real-time weather data visualization</i></p>
-        <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=14&duration=3000&pause=1000&center=true&vCenter=true&width=350&height=30&lines=Live+Weather+Data;City+Search;Clean+Dashboard+UI;API+Integration&color=38BDF8&background=00000000" />
-        <br><br>
-        <a href="https://github.com/sanjeevkoshti/WeatherApp"><img src="https://img.shields.io/badge/Source_Code-1a1a2e?style=for-the-badge&logo=github&logoColor=white"/></a>
-        <br><br>
-        <b>Tech Stack</b><br>
-        <br>
-        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" />
       </td>
     </tr>
   </table>
