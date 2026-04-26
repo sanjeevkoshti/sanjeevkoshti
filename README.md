@@ -150,7 +150,7 @@ const sanjeev = {
   <a href="https://sanjeevkoshti.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
-  <a href="mailto:sanjeevkoshti@example.com">
+  <a href="mailto:koshtisanjeev6@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://hackerrank.com/profile/sanjukoshti734">
